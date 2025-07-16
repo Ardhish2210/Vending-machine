@@ -118,10 +118,6 @@ The testbench includes the following test scenarios:
 - **Proper FSM Design**: Clear state transitions and output logic
 - **Comprehensive Testing**: Multiple payment scenarios covered
 
-## Author
-
-Ardhish2210
-
 ## License
 
 This project is for educational purposes.
